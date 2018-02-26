@@ -1,4 +1,5 @@
 // Dummy comment
+// Dummy comment 2
 
 /* The copyright in this software is being made available under the BSD
  * License, included below. This software may be subject to other third party
